@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ui.first_start.FirstThreeFragment">
+
+
+    <ImageView
+        android:id="@+id/imageViewStartFirstThree"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/picture_splash_three"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageViewLogoFirstThree"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:src="@drawable/skillcinema_logo"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewFirstThree"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:textSize="32sp"
+        android:text="@string/start_first_text_three"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewStartFirstThree" />
+
+    <TextView
+        android:id="@+id/textViewSkipThree"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="32dp"
+        android:textSize="16sp"
+        android:textColor="#A8A4A4"
+        android:text="@string/go_to_app"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageViewThreeFirstOneOfThree"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:src="@drawable/dot_grey"
+        app:layout_constraintBottom_toTopOf="@+id/textViewFirstThree"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewStartFirstThree" />
+
+    <ImageView
+        android:id="@+id/imageViewThreeFirstTwoOfThree"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:src="@drawable/dot_grey"
+        app:layout_constraintBottom_toBottomOf="@+id/imageViewThreeFirstOneOfThree"
+        app:layout_constraintStart_toEndOf="@+id/imageViewThreeFirstOneOfThree" />
+
+    <ImageView
+        android:id="@+id/imageViewThreeFirstThreeOfThree"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:src="@drawable/dot_black"
+        app:layout_constraintBottom_toBottomOf="@+id/imageViewThreeFirstTwoOfThree"
+        app:layout_constraintStart_toEndOf="@+id/imageViewThreeFirstTwoOfThree" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

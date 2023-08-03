@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="4dp"
+    android:backgroundTint="#F1E7E7"
+    android:elevation="30dp"
+    app:cardCornerRadius="30dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/textViewNameRu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Название на русском"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textViewNameEn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Название на английском"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textViewProfessionKey"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="должность"
+            android:textColor="#8A8383"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

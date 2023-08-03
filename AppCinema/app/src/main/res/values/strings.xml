@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Cinema</string>
+    <string name="start_first_text_one">Узнавай\nо премьерах</string>
+    <string name="start_first_text_two">Создавай\nколлекции</string>
+    <string name="start_first_text_three">Делись\nс друзьями</string>
+    <string name="not_show_personnel_all_movie">Скрыть список</string>
+    <string name="to_the_list">К списку</string>
+    <string name="any">любой</string>
+    <string name="soap">Сериалы</string>
+    <string name="top_250">Топ 250</string>
+    <string name="popular">Популярное</string>
+    <string name="premieres">Премьеры</string>
+    <string name="action_usa">Боевики США</string>
+    <string name="dramas_france">Драмы Франции</string>
+    <string name="actors">Актеры</string>
+    <string name="crew">Сьемочная группа</string>
+    <string name="error_info_one">кажется что-то сломалось</string>
+    <string name="error_info_two">проверьте подключение</string>
+    <string name="replace">Обновить</string>
+    <string name="put_collection_name">введите название коолекции</string>
+    <string name="info_actors">В фильме снимались</string>
+    <string name="info_crew">Над фильмом работали</string>
+    <string name="zero">0</string>
+    <string name="gallery_info">Галерея</string>
+    <string name="all">Все</string>
+    <string name="same_film_info">Похожие фильмы</string>
+    <string name="add_in_collection_info">Добавить в коллекцию</string>
+    <string name="add_new_collection_info">+ Создать новую коллекцию</string>
+    <string name="go_to_app">перейти в приложение</string>
+    <string name="best_info">Лучшее</string>
+    <string name="filmography_info">Фильмография</string>
+    <string name="to_list_info">К списку</string>
+    <string name="premieres_info">Премьеры</string>
+    <string name="all_info">Все</string>
+    <string name="popular_info">Популярное</string>
+    <string name="action_usa_info">Боевики США</string>
+    <string name="top_250_info">Топ-250</string>
+    <string name="dramas_france_info">Драмы Франции</string>
+    <string name="soap_info">Сериалы</string>
+    <string name="collection_name_info">Название коллекции</string>
+    <string name="was_interested_info">Было интересно</string>
+    <string name="watched_info">Уже просмотренно</string>
+    <string name="collections_info">Коллекции</string>
+    <string name="welcome_info">экран приветсвия при запуске</string>
+    <string name="put_collection_name_info">введите название коолекции</string>
+    <string name="data_for_search_info">данные для поиска</string>
+    <string name="star_gate">звездные врата</string>
+    <string name="not_search">ничего не найдено</string>
+    <string name="setting_search">Настройки поиска</string>
+    <string name="show_info">Показывать</string>
+    <string name="movie_info">Фильмы</string>
+    <string name="seriales_info">Сериалы</string>
+    <string name="country_info">Страна</string>
+    <string name="genre_info">Жанр</string>
+    <string name="year_info">Год</string>
+    <string name="rating_info">Рейтинг</string>
+    <string name="sorted_info">Сортировать</string>
+    <string name="date_info">Дата</string>
+    <string name="popular_info_button">Популярность</string>
+    <string name="rating_info_button">Рейтинг</string>
+    <string name="default_search">Параметры по умолчанию</string>
+    <string name="any_info">любой</string>
+    <string name="photos_info">Фотографии</string>
+
+    <string-array name="rating_slider">
+        <item>0</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="years_slider">
+        <item>1950</item>
+        <item>2023</item>
+    </string-array>
+
+</resources>
