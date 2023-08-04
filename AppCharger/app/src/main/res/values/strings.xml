@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Charger</string>
+    <string name="permission_granted">Location permission granted</string>
+    <string name="permission_not_granted">Location permission not granted</string>
+    <string name="azs_title">%1$s, </string>
+    <string name="azs_id">АЗС № %1$s </string>
+    <string name="location_info">%1$s, %2$s</string>
+    <string name="power_description">Power \nof station</string>
+    <string name="cost_description">Charging\ncost</string>
+    <string name="number_description">Number \nof station</string>
+    <string name="route">Route</string>
+    <string name="call">Call</string>
+    <string name="share">Share</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="forgot"><u>Forgot your username/password?</u></string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="log_in">Log in</string>
+    <string name="create_account">Create account</string>
+    <string name="last_verified">Date Last Verified</string>
+    <string name="map_menu">Map</string>
+    <string name="account_menu">Profile</string>
+    <string name="failed_message">authorization failed</string>
+</resources>

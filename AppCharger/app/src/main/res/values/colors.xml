@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_color">#F2F6FA</color>
+    <color name="default_border">#805C6670</color>
+    <color name="button_start_background">#1A81E5</color>
+    <color name="button_start_text">#FFFFFF</color>
+    <color name="button_default_background">#F2F6FA</color>
+    <color name="button_default_text">#1A81E5</color>
+    <color name="text_primary">#282F38</color>
+    <color name="text_description">#9B9FA4</color>
+    <color name="edit_text_login_background">#171A1C</color>
+    <color name="text_description_secondary">#1A81E5</color>
+    <color name="revers_primary_color">#1B1E20</color>
+    <color name="icon_primary">#C4CCD4</color>
+    <color name="authorization_status_background">#1B1E20</color>
+    <color name="authorization_status_button">#F2F6FA</color>
+</resources>

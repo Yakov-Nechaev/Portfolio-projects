@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_primary">16dp</dimen>
+    <dimen name="padding_double">32dp</dimen>
+    <dimen name="padding_half">8dp</dimen>
+    <dimen name="margin_primary">16dp</dimen>
+    <dimen name="margin_double">32dp</dimen>
+    <dimen name="margin_half">8dp</dimen>
+    <dimen name="text_primary">17sp</dimen>
+    <dimen name="text_description">12sp</dimen>
+    <dimen name="text_secondary">14sp</dimen>
+    <dimen name="remove_line">70dp</dimen>
+    <dimen name="margin_half_and_primary">24dp</dimen>
+    <dimen name="peek_height">160dp</dimen>
+    <dimen name="text_description_secondary">16sp</dimen>
+    <dimen name="edit_text_login">16sp</dimen>
+    <dimen name="button_login_width">250dp</dimen>
+    <dimen name="text_primary_full_description">24sp</dimen>
+    <dimen name="user_photo">150dp</dimen>
+    <dimen name="elevation_primary">10dp</dimen>
+    <dimen name="padding_sheet">100dp</dimen>
+</resources>
