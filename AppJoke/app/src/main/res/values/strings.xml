@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppJoke</string>
+
+    <string name="notification_channel_id">update_jokes_channel</string>
+    <string name="notification_title">Joke updated</string>
+    <string name="channel_title">joke_channel</string>
+    <string name="cansel">stop show new notifications</string>
+    <string name="sec_description">15</string>
+    <string name="min_description">60</string>
+    <string name="hour_description">3600</string>
+    <string name="sec_interval">Every 15 seconds</string>
+    <string name="min_interval">Once a minute</string>
+    <string name="hour_interval">Once an hour</string>
+    <string name="choose_a_topic">Choose a topic</string>
+    <string name="save">Save</string>
+    <string name="add">add to favorites</string>
+    <string name="saved_jokes">Favorite jokes</string>
+    <string name="favorite">Favorite</string>
+</resources>

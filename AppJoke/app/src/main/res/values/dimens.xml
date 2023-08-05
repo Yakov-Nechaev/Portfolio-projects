@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_default">16dp</dimen>
+    <dimen name="margin_double">32dp</dimen>
+    <dimen name="half_padding">8dp</dimen>
+    <dimen name="half_margin">8dp</dimen>
+    <dimen name="padding_default">16dp</dimen>
+    <dimen name="separator">1dp</dimen>
+    <dimen name="topic_text_size">32sp</dimen>
+    <dimen name="button_width">150dp</dimen>
+    <dimen name="button_height">60dp</dimen>
+    <dimen name="joke_item_text_height">150dp</dimen>
+    <dimen name="padding_total">92dp</dimen>
+</resources>
